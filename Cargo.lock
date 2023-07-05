@@ -3,5 +3,13 @@
 version = 3
 
 [[package]]
+name = "as-ref-arguments"
+version = "0.1.0"
+
+[[package]]
 name = "rust-playground"
+version = "0.1.0"
+
+[[package]]
+name = "split-test"
 version = "0.1.0"
